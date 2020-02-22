@@ -1,23 +1,23 @@
 # Documentation
 Documentation can be found in ./doc folder
 
-### assignemnt:
+### assignemt:
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-1.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-2.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
+| [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-1.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-2.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
 
 | Page. 3 | Page. 4 |
 |:---:|:---:|
-| [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-3.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-4.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
+| [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-3.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-4.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
 
 | Page. 5 | Page. 6 |
 |:---:|:---:|
-| [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-5.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-6.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
+| [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-5.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  | [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-6.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf) |
 
 | Page. 7 |
 |:---:|
-| [![assignemnt](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemnt-7.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  |
+| [![doc](https://github.com/DanCasterIt/Windowed-register-file/blob/master/images/assignemt-7.jpg)](https://github.com/DanCasterIt/Windowed-register-file/blob/master/doc/assignemt.pdf)  |
 
 ### waveform:
 
